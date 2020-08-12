@@ -1,4 +1,3 @@
-
 <div style="text-align: center">
 <img src="https://peakcool-md-images.oss-cn-shanghai.aliyuncs.com/markdown/programming_code_2.png" align="center" height="300">
 
@@ -15,6 +14,9 @@
 hi, 我是一名程序员，这个`awesome-coding`仓库是我平时学习、工作中收集整理的文章、文档、网站等等，希望对你们有帮助.
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+[TOC]
+
 
 ## 前端
 
@@ -35,17 +37,32 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 
+#### 算法
+
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
 #### 库
 
 - [simple-keyboard](https://github.com/hodgef/simple-keyboard)
 - [vuejsexamples](https://vuejsexamples.com/)
-
-#### 库
-
 - [holder]()
 - [print-js]()
 - [billboard.js]()
 - [Excel handsontable](https://github.com/handsontable/handsontable)
+- [form-create: json配置表单](https://github.com/xaboy/form-create)
+
+#### 框架
+
+- [ice: 海量可复用物料，搭配研发套件极速构建前端应用](https://ice.work/)
+
+#### 组件
+
+- [Numeric Keyboard: 数字键盘](https://github.com/viclm/numeric-keyboard)
+
+
+#### 测试
+
+- [vue-unitTest-with-jest](https://github.com/holylovelqq/vue-unit-test-with-jest)
 
 #### 其他
 
@@ -57,6 +74,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [happypack: Happiness in the form of faster webpack build times](https://github.com/amireh/happypack)
 
 ### CSS
+
+#### 资料
+
+- [Setting up Tailwind CSS with Vue.js](https://markus.oberlehner.net/blog/setting-up-tailwind-css-with-vue/)
 
 #### 框架
 
@@ -102,6 +123,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [flighticon](https://www.flighticon.co/)
 - [Material Icons Guide](https://google.github.io/material-design-icons/)
 - [icons8](https://img.icons8.com/)
+- [Material-UI material-icons](https://material-ui.com/zh/components/material-icons/)
 
 ### Canvas
 
@@ -152,6 +174,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 
 - [国际化翻译搜索](https://i18ns.com/zh/index.html)
 - [Traduora 翻译管理平台](https://github.com/traduora/traduora)
+- [Kiwi-国际化全流程解决方案](https://github.com/alibaba/kiwi)
 - [YAPI](https://github.com/YMFE/yapi)
 - [Firefox Quantum: Developer Edition]()
 - [Bagel： iOS 网络调试工具](https://github.com/yagiz/Bagel)
@@ -231,6 +254,9 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [json-schema](https://github.com/jackwootton/json-schema)
 - [常见正则整理](https://github.com/any86/any-rule)
 - [badge](https://shields.io/)
+- [hellogithub: 收集GITHUB项目](https://hellogithub.com/)
+- [码良: 在线生成 H5 页面并提供页面管理和页面编辑的平台](https://github.com/ymm-tech/gods-pen)
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 
 ---
 ## 面试
@@ -273,6 +299,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 
 ### 网站
 
+- [apple developer](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html)
 - [UI设计规范完全制作指南](https://www.uisdc.com/make-ui-design-guideline)
 - [设计师资源大全](https://github.com/jobbole/awesome-design-cn)
 - [lucid](https://lucid.style/)
@@ -280,7 +307,6 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [阿里玛良](https://design.alipay.com/emotion)
 - [aeux](https://aeux.io/#install)
 - [squircley.app](https://squircley.app/)
-
 ### 屏幕截图
 
 - [repix.app](https://repix.app/)
@@ -444,3 +470,17 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 
 - [random_string: Simple library for generating random ascii strings.]()
 - [logger：Small, easy to use and extensible logger which prints beautiful logs.]()
+
+---
+## 小程序
+
+### 组件
+
+- [wxapp: 小程序营销组件，WeChatApp的营销组件](https://github.com/o2team/wxapp-market)
+
+---
+## docker
+
+### 资料
+
+- [替换 Docker 或 Laradock 中 Debian 系统镜像源解决软件安装问题](https://shockerli.net/post/replace-docker-laradock-debian-mirrors/)
