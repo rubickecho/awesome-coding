@@ -40,6 +40,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### 算法
 
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [leetcode cookbook go实现的520题解法](https://books.halfrost.com/leetcode/)
+- [算法可视化网站：VisuAlgo.net](https://visualgo.net/zh)
+- [国内一位开发者的 LeetCode 题解项目，收录900+](https://github.com/grandyang/leetcode/blob/master/README-CN.md)
+- [汇总了各大互联网公司容易考察的高频 LeetCode 题的热度](https://github.com/afatcoder/LeetcodeTop)
+- [国内一位工程师的 LeetCode 刷题模板：algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
 
 #### 库
 
@@ -257,6 +262,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [hellogithub: 收集GITHUB项目](https://hellogithub.com/)
 - [码良: 在线生成 H5 页面并提供页面管理和页面编辑的平台](https://github.com/ymm-tech/gods-pen)
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- [Google技术开发指南](https://techdevguide.withgoogle.com/)
 
 ---
 ## 面试
