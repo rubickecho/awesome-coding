@@ -20,6 +20,17 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## 前端
 
+
+### 算法
+
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [leetcode cookbook go实现的520题解法](https://books.halfrost.com/leetcode/)
+- [算法可视化网站：VisuAlgo.net](https://visualgo.net/zh)
+- [国内一位开发者的 LeetCode 题解项目，收录900+](https://github.com/grandyang/leetcode/blob/master/README-CN.md)
+- [汇总了各大互联网公司容易考察的高频 LeetCode 题的热度](https://github.com/afatcoder/LeetcodeTop)
+- [国内一位工程师的 LeetCode 刷题模板：algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
+- [商品多规格选择-前端 sku 算法](https://github.com/xieyezi/sku-algorithm)
+
 ### JavaScript
 
 #### 教程
@@ -36,15 +47,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### 资料
 
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
-
-#### 算法
-
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-- [leetcode cookbook go实现的520题解法](https://books.halfrost.com/leetcode/)
-- [算法可视化网站：VisuAlgo.net](https://visualgo.net/zh)
-- [国内一位开发者的 LeetCode 题解项目，收录900+](https://github.com/grandyang/leetcode/blob/master/README-CN.md)
-- [汇总了各大互联网公司容易考察的高频 LeetCode 题的热度](https://github.com/afatcoder/LeetcodeTop)
-- [国内一位工程师的 LeetCode 刷题模板：algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
 
 #### 库
 
@@ -72,6 +74,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### 其他
 
 - [工具函数大全](https://mp.weixin.qq.com/s/YmMq1THEObpYU38JlWZGdw)
+- [awesome-vite: A curated list of awesome things related to Vite.js](https://github.com/vitejs/awesome-vite)
 
 ### Webpack
 
@@ -263,6 +266,8 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [码良: 在线生成 H5 页面并提供页面管理和页面编辑的平台](https://github.com/ymm-tech/gods-pen)
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [Google技术开发指南](https://techdevguide.withgoogle.com/)
+- [screenshot.rocks: Screenshot.rocks is an online tool which allows you to create beautiful mobile & browser mockups from screenshots.](https://github.com/daveearley/screenshot.rocks)
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)
 
 ---
 ## 面试
@@ -313,6 +318,8 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [阿里玛良](https://design.alipay.com/emotion)
 - [aeux](https://aeux.io/#install)
 - [squircley.app](https://squircley.app/)
+- [uiiiuiii 优设](https://uiiiuiii.com/)
+
 ### 屏幕截图
 
 - [repix.app](https://repix.app/)
