@@ -57,6 +57,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [billboard.js]()
 - [Excel handsontable](https://github.com/handsontable/handsontable)
 - [form-create: json配置表单](https://github.com/xaboy/form-create)
+- [OrgChart](https://dabeng.github.io/OrgChart/)
 
 #### 框架
 
@@ -99,6 +100,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [Beautifully simple click-to-copy CSS effects](https://cssfx.dev/)
 - [clock-shop](https://a-jie.github.io/clock-shop/)
 - [heropatterns](http://www.heropatterns.com/)
+- [TextInputEffects: 输入框各种效果](https://tympanus.net/Development/TextInputEffects/index.html)
 
 #### 响应式
 
