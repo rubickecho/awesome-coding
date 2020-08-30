@@ -11,17 +11,13 @@
 </p>
 </div>
 
-hi, 我是一名程序员，这个`awesome-coding`仓库是我平时学习、工作中收集整理的文章、文档、网站等等，希望对你们有帮助.
+hi, 这个`awesome-coding`仓库是我平时学习、工作中收集整理的文章、文档、网站等等，希望对你们有帮助.
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 [TOC]
 
-
-## 前端
-
-
-### 算法
+## 算法
 
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [leetcode cookbook go实现的520题解法](https://books.halfrost.com/leetcode/)
@@ -31,24 +27,30 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [国内一位工程师的 LeetCode 刷题模板：algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
 - [商品多规格选择-前端 sku 算法](https://github.com/xieyezi/sku-algorithm)
 
-### JavaScript
+## JavaScript
 
-#### 教程
+### 教程
 
 - [函数式编程](https://jrsinclair.com/web-development/)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
-### Vue
+### 资料
 
-#### 性能
+- [《JavaScript 20 年》中文版: 详细记述了 JavaScript 自 1995 至 2015 年间的演化故事](https://github.com/doodlewind/jshistory-cn)
+- [JavaScript博客: javaScript 深入系列、JavaScript 专题系列、ES6 系列、React 系列](https://github.com/mqyqingfeng/Blog)
+
+## Vue
+
+### 性能
 
 - [vue-perf-devtool： Vue Performance Devtool is a browser extension for inspecting the performance of Vue Components.](https://github.com/vue-perf-devtool/vue-perf-devtool)
 
-#### 资料
+### 源码解析
 
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
+- [Vue源码再读: Vue3.0 beta vs Vue2.x](https://cloud.tencent.com/developer/article/1622265?fromSource=gwzcw.1293314.1293314.1293314&cps_key=ad1dd5b36e1c498308f7302ab4cdabb7)
 
-#### 库
+### 库
 
 - [simple-keyboard](https://github.com/hodgef/simple-keyboard)
 - [vuejsexamples](https://vuejsexamples.com/)
@@ -59,42 +61,42 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [form-create: json配置表单](https://github.com/xaboy/form-create)
 - [OrgChart](https://dabeng.github.io/OrgChart/)
 
-#### 框架
+### 框架
 
 - [ice: 海量可复用物料，搭配研发套件极速构建前端应用](https://ice.work/)
 
-#### 组件
+### 组件
 
 - [Numeric Keyboard: 数字键盘](https://github.com/viclm/numeric-keyboard)
 
 
-#### 测试
+### 测试
 
 - [vue-unitTest-with-jest](https://github.com/holylovelqq/vue-unit-test-with-jest)
 
-#### 其他
+### 其他
 
 - [工具函数大全](https://mp.weixin.qq.com/s/YmMq1THEObpYU38JlWZGdw)
 - [awesome-vite: A curated list of awesome things related to Vite.js](https://github.com/vitejs/awesome-vite)
 
-### Webpack
+## Webpack
 
 - [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3)
 - [happypack: Happiness in the form of faster webpack build times](https://github.com/amireh/happypack)
 
-### CSS
+## CSS
 
-#### 资料
+### 资料
 
 - [Setting up Tailwind CSS with Vue.js](https://markus.oberlehner.net/blog/setting-up-tailwind-css-with-vue/)
 
-#### 框架
+### 框架
 
 - [tailwindcss]()
 - [xstyled: A new way to style components 💅
 Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 
-#### 效果
+### 效果
 
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/?ref=producthunt)
 - [Beautifully simple click-to-copy CSS effects](https://cssfx.dev/)
@@ -102,7 +104,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [heropatterns](http://www.heropatterns.com/)
 - [TextInputEffects: 输入框各种效果](https://tympanus.net/Development/TextInputEffects/index.html)
 
-#### 响应式
+### 响应式
 
 - [响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)
 
@@ -110,48 +112,48 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 
 - [cssloader getLocalIdent +   incstr CSS命名压缩]()
 
-### color
+## color
 
 - [webgradients](https://webgradients.com/)
 - [colorhunt](https://colorhunt.co/)
 - [渐变 uigradients](https://uigradients.com/#MegaTron)
 
-### 模块化
+## 模块化
 
 - [前端最全模块化](https://segmentfault.com/a/1190000018982665)
 
-### 动画
+## 动画
 
 - [Everything you need to know about Loading Animations](https://medium.com/flawless-app-stories/everything-you-need-to-know-about-loading-animations-10db7f9b61e)
 
-### 字体
+## 字体
 
 - [Free-Chinese-Fonts](http://zenozeng.github.io/Free-Chinese-Fonts/)
 
-### Icons
+## Icons
 
 - [flighticon](https://www.flighticon.co/)
 - [Material Icons Guide](https://google.github.io/material-design-icons/)
 - [icons8](https://img.icons8.com/)
 - [Material-UI material-icons](https://material-ui.com/zh/components/material-icons/)
 
-### Canvas
+## Canvas
 
 - [深入理解贝塞尔曲线](https://github.com/hujiulong/blog/issues/1)
 
-### 性能
+## 性能
 
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink)
 - [jarvis](https://github.com/zouhir/jarvis)
 - [WPO stats](https://wpostats.com/)
 
-#### 监控
+### 监控
 
 - [mixpanel](https://mixpanel.com/report/1985665/setup/)
 - [pwmetrics](https://github.com/paulirish/pwmetrics)
 - [Netlify]()
 
-### 安全
+## 安全
 
 - [web 安全笔记](https://websec.readthedocs.io/zh/latest/)
 
@@ -165,10 +167,9 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 ### 资料
 
 - [基于node的前端项目编译时内存溢出问题](https://segmentfault.com/a/1190000010437948)
-  
 - [Node技术栈](https://www.nodejs.red/#/javascript/base)
-
 - [Node.js微信开发](https://i5ting.github.io/wechat-dev-with-nodejs/index.html)
+- [Node.js 最佳实践指南](https://weibo.com/u/page/like/2085118413)
 
 ---
 ## 开发规范
@@ -213,6 +214,8 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [amis:  直接通过 JSON 即可配置出完整的MIS系统](https://github.com/baidu/amis)
 - [WebStack-Laravel: 一个开源的网址导航网站项目](https://github.com/hui-ho/WebStack-Laravel)
 - [医疗erp原型图](http://www.wulihub.com.cn/go/qpBoxQ/start.html#g=1&p=%E6%89%80%E6%9C%89%E7%89%88%E6%9C%AC%EF%BC%88%E7%A8%8B%E5%BA%8F%E7%8C%BF%E7%9C%8B%E8%BF%99%E9%87%8C%EF%BC%89%F0%9F%91%88)
+- [Vanilla Web Project: 收集了 20 个小型的 Web 开源应用](https://github.com/bradtraversy/vanillawebprojects)
+- [JeecgBoot: 该平台采用前后端分离架构：SpringBoot2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。通过代码生成器可让前后端代码一键生成](http://www.jeecg.com/)
 
 ---
 ## 编辑器
@@ -224,6 +227,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 ## 数据可视化
 
 - [Material Design数据可视化指南](https://www.ui.cn/detail/477349.html)
+- [数据可视化各实例总览](https://datavizcatalogue.com/ZH/)
 
 ---
 ## Serverless
@@ -243,7 +247,8 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [动手学深度学习](http://zh.d2l.ai/)
 - [如何为开源做贡献](https://opensource.guide/zh-cn/how-to-contribute/)
 
-### 设计模式
+---
+## 设计模式
 
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 - [设计模式超简单的解释](https://github.com/guanguans/design-patterns-for-humans-cn)
@@ -270,11 +275,13 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [Google技术开发指南](https://techdevguide.withgoogle.com/)
 - [screenshot.rocks: Screenshot.rocks is an online tool which allows you to create beautiful mobile & browser mockups from screenshots.](https://github.com/daveearley/screenshot.rocks)
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)
+- [在语雀绘制 PlantUML 图](https://www.yuque.com/barretlee/yuque/aabh67)
 
 ---
 ## 面试
 
 - [IT 管理岗面试热门问答 Top 30]()
+- [我在阿里招前端，我该怎么帮你？](https://weibo.com/ttarticle/p/show?id=2309404508848684662794)
 
 ---
 ## Kindle
@@ -288,6 +295,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [程序员如何精确评估开发时间]()
 - [新晋技术管理者，几位技术老兵有份攻略要送给你](https://weibo.com/ttarticle/p/show?id=2309404354053231528643)
 - [前端专业方向的尽头](https://www.zhangxinxu.com/life/2019/03/fe-end/)
+- [功能无法停止交付，遗留的技术债务问题怎么解决](https://weibo.com/ttarticle/p/show?id=2309404509939434389551)
 
 ---
 ## 摄影
@@ -309,6 +317,18 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 
 ---
 ## 设计
+
+### 资料
+
+- [详情页中最容易被忽略的产品参数模块，该如何设计？](https://www.uisdc.com/product-parameter-module-design)
+- [Guidelines for awesome web form design](https://www.justinmind.com/blog/web-form-design-best-practices/)
+- [万字干货！帮你彻底完整掌握表单设计方法（上](https://www.uisdc.com/form-design-1#)
+- [可能是最全面的表单设计完全手册](https://www.uisdc.com/the-most-comprehensive-form-design-manual#)
+- [历时两月，总结出字数10000+的微文案设计指南](https://www.uisdc.com/design-guide-for-micro-copywriting)
+- [如何让你的「按钮设计」上档次？送你这份万能公式](https://www.uisdc.com/button-design-4)
+- [还不熟悉Figma？为你详细介绍这个面向未来的设计工具](https://www.uisdc.com/figma-future-tool)
+- [紧跟趋势！深色模式设计的8个小技巧](https://www.uisdc.com/8-dark-mode-design-skills)
+- [近1000个人物素材+20个常用场景，价值上百元的插画素材免费打包下载](https://www.uisdc.com/stubborn-generator)
 
 ### 网站
 
@@ -499,3 +519,12 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 ### 资料
 
 - [替换 Docker 或 Laradock 中 Debian 系统镜像源解决软件安装问题](https://shockerli.net/post/replace-docker-laradock-debian-mirrors/)
+
+## 爬虫
+
+- [InfoSpider: 集众多数据源于一身的爬虫工具箱](https://www.uisdc.com/design-guide-for-micro-copywriting)
+
+## Java
+
+- [technology-talk: 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识](https://github.com/aalansehaiyang/technology-talk)
+
