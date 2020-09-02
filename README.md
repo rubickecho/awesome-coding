@@ -39,6 +39,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [《JavaScript 20 年》中文版: 详细记述了 JavaScript 自 1995 至 2015 年间的演化故事](https://github.com/doodlewind/jshistory-cn)
 - [JavaScript博客: javaScript 深入系列、JavaScript 专题系列、ES6 系列、React 系列](https://github.com/mqyqingfeng/Blog)
 
+### 项目规范
+
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md)
+
 ## Vue
 
 ### 性能
@@ -276,6 +280,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [screenshot.rocks: Screenshot.rocks is an online tool which allows you to create beautiful mobile & browser mockups from screenshots.](https://github.com/daveearley/screenshot.rocks)
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)
 - [在语雀绘制 PlantUML 图](https://www.yuque.com/barretlee/yuque/aabh67)
+- [快乐的linux命令行](http://billie66.github.io/TLCL/index.html)
 
 ---
 ## 面试
@@ -374,6 +379,8 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [Pragmatic State Management Using Provider](https://medium.com/flutter-community/flutter-pragmatic-state-management-using-provider-5c1129f9b5bb)
 - [frosted glass](https://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter)
 - [A Deep Dive into Flutter: The 22nd Century Frontend Framework](https://medium.com/flutter-community/deep-dive-in-flutter-b0b827440a49)
+- [Flutter-Course-Resources: 适合新手的 Flutter 教程](https://github.com/londonappbrewery/Flutter-Course-Resources)
+- [Flutter App 开发学习路线图](https://github.com/Tarikul711/flutter-development-roadmap)
 
 ### 工具
 
