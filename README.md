@@ -281,6 +281,9 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)
 - [在语雀绘制 PlantUML 图](https://www.yuque.com/barretlee/yuque/aabh67)
 - [快乐的linux命令行](http://billie66.github.io/TLCL/index.html)
+- [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
+- [Semver(语义化版本号)扫盲，以及Github的语义化版本控制规范](https://cloud.tencent.com/developer/article/1651122?fromSource=gwzcw.1293314.1293314.1293314&cps_key=ad1dd5b36e1c498308f7302ab4cdabb7)
+- [API Coding](https://apicoding.io/)
 
 ---
 ## 面试
@@ -534,4 +537,8 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 ## Java
 
 - [technology-talk: 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识](https://github.com/aalansehaiyang/technology-talk)
+
+## 深度学习
+
+- [基础装机和环境搭建开始](https://dl.ypw.io/)
 
