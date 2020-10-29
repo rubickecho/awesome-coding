@@ -337,6 +337,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [还不熟悉Figma？为你详细介绍这个面向未来的设计工具](https://www.uisdc.com/figma-future-tool)
 - [紧跟趋势！深色模式设计的8个小技巧](https://www.uisdc.com/8-dark-mode-design-skills)
 - [近1000个人物素材+20个常用场景，价值上百元的插画素材免费打包下载](https://www.uisdc.com/stubborn-generator)
+- [iOS各型号设备描述](https://www.theiphonewiki.com/wiki/Models)
 
 ### 网站
 
@@ -414,6 +415,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [ecommerce_app_ui](https://github.com/cybdom/ecommerce_app_ui)
 - [flutter-calculator-demo](https://github.com/kenreilly/flutter-calculator-demo)
 - [Flutter-Cryptowallet](https://github.com/LiveLikeCounter/Flutter-Cryptowallet)
+- [gallery.flutter.dev: 组件示例](https://gallery.flutter.dev/#/)
 
 ### Components
 
