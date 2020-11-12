@@ -199,6 +199,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [api 测试: Test Mace](https://testmace.com/?ref=hackernoon.com)
 - [smallpdf](https://smallpdf.com/)
 - [ImageOptim 压缩](https://imageoptim.com/howto.html)
+- [npm trends: npm包下载量对比](https://www.npmtrends.com/react-vs-vue)
 
 ### 科学上网
 
@@ -322,6 +323,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 ## 英语
 
 - [linggle](https://www.linggle.com/)
+- [程序员英语词汇宝典](https://learn-english.dev/)
 
 ---
 ## 设计
@@ -350,6 +352,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [aeux](https://aeux.io/#install)
 - [squircley.app](https://squircley.app/)
 - [uiiiuiii 优设](https://uiiiuiii.com/)
+- [波浪图案一键生成](https://svgwave.in/)
 
 ### 屏幕截图
 
