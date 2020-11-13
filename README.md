@@ -26,6 +26,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [汇总了各大互联网公司容易考察的高频 LeetCode 题的热度](https://github.com/afatcoder/LeetcodeTop)
 - [国内一位工程师的 LeetCode 刷题模板：algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
 - [商品多规格选择-前端 sku 算法](https://github.com/xieyezi/sku-algorithm)
+- [东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 ](https://github.com/geekxh/hello-algorithm)
 
 ## JavaScript
 
@@ -82,6 +83,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [工具函数大全](https://mp.weixin.qq.com/s/YmMq1THEObpYU38JlWZGdw)
 - [awesome-vite: A curated list of awesome things related to Vite.js](https://github.com/vitejs/awesome-vite)
+
+### 可视化开发
+
+- [sparrow-js](https://sparrow-js.github.io/sparrow-vue-site/guide/)
 
 ## Webpack
 
@@ -200,6 +205,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [smallpdf](https://smallpdf.com/)
 - [ImageOptim 压缩](https://imageoptim.com/howto.html)
 - [npm trends: npm包下载量对比](https://www.npmtrends.com/react-vs-vue)
+- [LowCode:场景化低代码（LowCode）搭建工作台，实时输出源代码](https://github.com/sparrow-js/sparrow)
 
 ### 科学上网
 
@@ -276,6 +282,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [badge](https://shields.io/)
 - [hellogithub: 收集GITHUB项目](https://hellogithub.com/)
 - [码良: 在线生成 H5 页面并提供页面管理和页面编辑的平台](https://github.com/ymm-tech/gods-pen)
+- [H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践](http://io.nainor.com/h5_visible)
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [Google技术开发指南](https://techdevguide.withgoogle.com/)
 - [screenshot.rocks: Screenshot.rocks is an online tool which allows you to create beautiful mobile & browser mockups from screenshots.](https://github.com/daveearley/screenshot.rocks)
@@ -285,12 +292,14 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
 - [Semver(语义化版本号)扫盲，以及Github的语义化版本控制规范](https://cloud.tencent.com/developer/article/1651122?fromSource=gwzcw.1293314.1293314.1293314&cps_key=ad1dd5b36e1c498308f7302ab4cdabb7)
 - [API Coding](https://apicoding.io/)
+- [socialify: 生成README精美的项目介绍图]()
 
 ---
 ## 面试
 
 - [IT 管理岗面试热门问答 Top 30]()
 - [我在阿里招前端，我该怎么帮你？](https://weibo.com/ttarticle/p/show?id=2309404508848684662794)
+- [程序员简历例句，程序员简历范例，Java简历模版，Python简历模版，C++简历模版](https://github.com/resumejob/awesome-resume)
 
 ---
 ## Kindle
