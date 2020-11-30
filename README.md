@@ -44,6 +44,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md)
 
+### 项目收集
+
+- [Butterfly，A JavaScript Diagramming library which concentrate on flow layout field](https://github.com/alibaba/butterfly)
+
 ## Vue
 
 ### 性能
@@ -87,6 +91,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 可视化开发
 
 - [sparrow-js](https://sparrow-js.github.io/sparrow-vue-site/guide/)
+- [EasyLogic Studio: EasyLogic Studio is built using CSS and SVG to reduce the gap between web design and code. The goal is to have the same point in time between the designer's design and the developer's output](https://sparrow-js.github.io/sparrow-vue-site/guide/)
 
 ## Webpack
 
@@ -239,6 +244,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 
 - [Material Design数据可视化指南](https://www.ui.cn/detail/477349.html)
 - [数据可视化各实例总览](https://datavizcatalogue.com/ZH/)
+- [图之典：各种图表示例说明](http://tuzhidian.com/)
 
 ---
 ## Serverless
@@ -349,6 +355,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [紧跟趋势！深色模式设计的8个小技巧](https://www.uisdc.com/8-dark-mode-design-skills)
 - [近1000个人物素材+20个常用场景，价值上百元的插画素材免费打包下载](https://www.uisdc.com/stubborn-generator)
 - [iOS各型号设备描述](https://www.theiphonewiki.com/wiki/Models)
+- [超全面的交互设计自学指南](https://www.uisdc.com/interaction-design-self-study-guide)
 
 ### 网站
 
