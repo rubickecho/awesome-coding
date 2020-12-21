@@ -58,6 +58,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 - [Vue源码再读: Vue3.0 beta vs Vue2.x](https://cloud.tencent.com/developer/article/1622265?fromSource=gwzcw.1293314.1293314.1293314&cps_key=ad1dd5b36e1c498308f7302ab4cdabb7)
+- [我是如何阅读源码的](https://juejin.cn/post/6903335881227108366)
 
 ### 库
 
@@ -69,6 +70,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Excel handsontable](https://github.com/handsontable/handsontable)
 - [form-create: json配置表单](https://github.com/xaboy/form-create)
 - [OrgChart](https://dabeng.github.io/OrgChart/)
+- [awesome-vue:可视化浏览查找vue相关库](https://awesomejs.dev/for/vue/)
 
 ### 框架
 
@@ -207,10 +209,13 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [Flare Animation](https://www.2dimensions.com/about-flare)
 - [Online PS](https://ps.gaoding.com/#/?hmsr=zc-cc)
 - [api 测试: Test Mace](https://testmace.com/?ref=hackernoon.com)
+- [api-diff: A command line tool for diffing json rest APIs](https://github.com/radarlabs/api-diff)
 - [smallpdf](https://smallpdf.com/)
 - [ImageOptim 压缩](https://imageoptim.com/howto.html)
 - [npm trends: npm包下载量对比](https://www.npmtrends.com/react-vs-vue)
 - [LowCode:场景化低代码（LowCode）搭建工作台，实时输出源代码](https://github.com/sparrow-js/sparrow)
+- [SSH 的概念和基本用法](https://github.com/wangdoc/ssh-tutorial)
+- [cypress: Fast, easy and reliable testing for anything that runs in a browser.](https://github.com/cypress-io/cypress)
 
 ### 科学上网
 
@@ -218,6 +223,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [左耳朵耗子 科学上网]()
 - [multi-v2ray]()
 - [使用iptables防止端口扫描]()
+- [goping: 网络ping命令](https://github.com/orf/gping)
 
 ---
 ## Public API
@@ -232,7 +238,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [医疗erp原型图](http://www.wulihub.com.cn/go/qpBoxQ/start.html#g=1&p=%E6%89%80%E6%9C%89%E7%89%88%E6%9C%AC%EF%BC%88%E7%A8%8B%E5%BA%8F%E7%8C%BF%E7%9C%8B%E8%BF%99%E9%87%8C%EF%BC%89%F0%9F%91%88)
 - [Vanilla Web Project: 收集了 20 个小型的 Web 开源应用](https://github.com/bradtraversy/vanillawebprojects)
 - [JeecgBoot: 该平台采用前后端分离架构：SpringBoot2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。通过代码生成器可让前后端代码一键生成](http://www.jeecg.com/)
-
+- [monica: Personal CRM. Remember everything about your friends, family and business relationships.](https://github.com/monicahq/monica)
 ---
 ## 编辑器
 
@@ -285,6 +291,8 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [getavatars: 卡通头像生成器](https://getavatars.app/)
 - [json-schema](https://github.com/jackwootton/json-schema)
 - [常见正则整理](https://github.com/any86/any-rule)
+- [常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式](https://github.com/cdoco/common-regex)
+- [正则图例绘制](https://regexper.com/)
 - [badge](https://shields.io/)
 - [hellogithub: 收集GITHUB项目](https://hellogithub.com/)
 - [码良: 在线生成 H5 页面并提供页面管理和页面编辑的平台](https://github.com/ymm-tech/gods-pen)
@@ -299,6 +307,7 @@ Consistent theme based CSS](https://www.smooth-code.com/open-source/xstyled/)
 - [Semver(语义化版本号)扫盲，以及Github的语义化版本控制规范](https://cloud.tencent.com/developer/article/1651122?fromSource=gwzcw.1293314.1293314.1293314&cps_key=ad1dd5b36e1c498308f7302ab4cdabb7)
 - [API Coding](https://apicoding.io/)
 - [socialify: 生成README精美的项目介绍图]()
+- [如何搭建一套 “无痕埋点” 体系？](https://mp.weixin.qq.com/s/nJZk-0WtEW6C8mTeJCSUzQ)
 
 ---
 ## 面试
